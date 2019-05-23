@@ -2,6 +2,6 @@ package hello
 
 import "fmt"
 
-func fuck(){
+func Fuck(){
 	fmt.Println("fuck everyone")
 }
